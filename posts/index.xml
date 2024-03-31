@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vénijeux</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://reppyk.github.io/posts/</link>
     <description>Recent content in Posts on Vénijeux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Mar 2024 15:14:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://reppyk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other activities</title>
-      <link>http://localhost:1313/posts/other_activities/</link>
+      <link>https://reppyk.github.io/posts/other_activities/</link>
       <pubDate>Sun, 31 Mar 2024 15:14:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/other_activities/</guid>
+      <guid>https://reppyk.github.io/posts/other_activities/</guid>
       <description>Other activities Beside board games :&#xA;Music Sport, like swimming, ice skating or biking Lego train Arduino Sewing RPG Almost all books for Shadowrun, version 3 (French and English).&#xA;Landscape miniatures with :&#xA;28mm desert from Gamemat SOURCE Dungeons &amp;amp; Lasers V7 Dungeon in a Box </description>
     </item>
     <item>
       <title>Sleeping</title>
-      <link>http://localhost:1313/posts/sleeping/</link>
+      <link>https://reppyk.github.io/posts/sleeping/</link>
       <pubDate>Sun, 31 Mar 2024 13:34:14 +0200</pubDate>
-      <guid>http://localhost:1313/posts/sleeping/</guid>
+      <guid>https://reppyk.github.io/posts/sleeping/</guid>
       <description>Sleeping If needed (you live too far ; it&amp;rsquo;s snowing, etc.), up to 8 people can sleep at home.&#xA;Just ask &amp;#x1f609;</description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/posts/food/</link>
+      <link>https://reppyk.github.io/posts/food/</link>
       <pubDate>Sun, 31 Mar 2024 13:32:32 +0200</pubDate>
-      <guid>http://localhost:1313/posts/food/</guid>
+      <guid>https://reppyk.github.io/posts/food/</guid>
       <description>Food&amp;rsquo;n&amp;rsquo;drink Don&amp;rsquo;t stress much about it ; I always have something around to survive.&#xA;Available drinks are usually :&#xA;Cider &amp;#x1f34e; &amp;#x1f34f; Beer &amp;#x1f37a; Orange juice &amp;#x1f34a; If you&amp;rsquo;re bringing something, don&amp;rsquo;t forget that greasy food is not allowed in the gaming area. So forget about these Doritos. And I don&amp;rsquo;t own any microwave oven. &amp;#x26d4;&#xA;Do not forget to warn about any food allergy or restriction. &amp;#x1f61b;</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/posts/location/</link>
+      <link>https://reppyk.github.io/posts/location/</link>
       <pubDate>Sun, 31 Mar 2024 13:32:22 +0200</pubDate>
-      <guid>http://localhost:1313/posts/location/</guid>
+      <guid>https://reppyk.github.io/posts/location/</guid>
       <description>Location Address 3, rue Président Salvador Allende, 69200&#xA;There are 5 different homes at the same address. Mine&amp;rsquo;s the yellow&amp;amp;pink house, the closest from the start of the street.&#xA;Public Transport Tramway T4 Stop at : Marcel Houël - Hôtel de Ville&#xA;Then walk for about 9mn, using the Parmentier street.&#xA;Metro D Stop at the Gare de Vénissieux terminus.&#xA;Walk 15mn : Bd Ambroise Croizat, Av. Jacques Duclos, Rue Parmentier.</description>
     </item>
     <item>
       <title>Games List</title>
-      <link>http://localhost:1313/posts/games-list/</link>
+      <link>https://reppyk.github.io/posts/games-list/</link>
       <pubDate>Sun, 31 Mar 2024 13:26:07 +0200</pubDate>
-      <guid>http://localhost:1313/posts/games-list/</guid>
+      <guid>https://reppyk.github.io/posts/games-list/</guid>
       <description>All owned board games Game name Type Player(s) Duration Lang. Version Comments 7 wonders Scoring 2-7 1h30 FR 2.0 Canopy Scoring 1-4 1-2h EN 1.0 Canopy Evergreen Scoring ? ? EN 1.0 Av. : Summer 2024 Cards (52) Classic ? ? N/A 1.0 2 decks Celestia Fake coop. 2-8 1h FR 1.0 Citadelles Secr.Iden. 3-9 1h30 FR 2.0 Dents de la mer Classic 2-4 1h30 FR 1.0 From the Jaws movie Esc.</description>
     </item>
   </channel>
