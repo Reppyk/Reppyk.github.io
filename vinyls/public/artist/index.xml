@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artist on My Vinyl Records Collection</title>
+    <link>//localhost:1313/artist/</link>
+    <description>Recent content in Artist on My Vinyl Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 23:04:42 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/artist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sabrina</title>
+      <link>//localhost:1313/artist/sabrina/</link>
+      <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
+      <guid>//localhost:1313/artist/sabrina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scandroid</title>
+      <link>//localhost:1313/artist/scandroid/</link>
+      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
+      <guid>//localhost:1313/artist/scandroid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nightcrawler</title>
+      <link>//localhost:1313/artist/nightcrawler/</link>
+      <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
+      <guid>//localhost:1313/artist/nightcrawler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carpenter Brut</title>
+      <link>//localhost:1313/artist/carpenter-brut/</link>
+      <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
+      <guid>//localhost:1313/artist/carpenter-brut/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

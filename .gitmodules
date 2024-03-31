@@ -4,3 +4,6 @@
 [submodule "quickstart/themes/paper"]
 	path = quickstart/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "vinyls/themes/vinyl-records-collection-theme"]
+	path = vinyls/themes/vinyl-records-collection-theme
+	url = https://github.com/Wivik/vinyl-records-collection-theme

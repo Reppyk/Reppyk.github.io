@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>33rpm / 12&#34; on My Vinyl Records Collection</title>
+    <link>//localhost:1313/format/33rpm-/-12/</link>
+    <description>Recent content in 33rpm / 12&#34; on My Vinyl Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 22:56:30 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/format/33rpm-/-12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scandroid</title>
+      <link>//localhost:1313/scandroid/</link>
+      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
+      <guid>//localhost:1313/scandroid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metropolis</title>
+      <link>//localhost:1313/metropolis/</link>
+      <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
+      <guid>//localhost:1313/metropolis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blood Machines</title>
+      <link>//localhost:1313/blood_machines/</link>
+      <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
+      <guid>//localhost:1313/blood_machines/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

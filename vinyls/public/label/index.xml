@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Label on My Vinyl Records Collection</title>
+    <link>//localhost:1313/label/</link>
+    <description>Recent content in Label on My Vinyl Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 23:04:42 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/label/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CHIC</title>
+      <link>//localhost:1313/label/chic/</link>
+      <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
+      <guid>//localhost:1313/label/chic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CARRERE</title>
+      <link>//localhost:1313/label/carrere/</link>
+      <pubDate>Sun, 31 Mar 2024 23:00:41 +0200</pubDate>
+      <guid>//localhost:1313/label/carrere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FIXT</title>
+      <link>//localhost:1313/label/fixt/</link>
+      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
+      <guid>//localhost:1313/label/fixt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronic Purification Records</title>
+      <link>//localhost:1313/label/electronic-purification-records/</link>
+      <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
+      <guid>//localhost:1313/label/electronic-purification-records/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No Quarter / Caroline</title>
+      <link>//localhost:1313/label/no-quarter-/-caroline/</link>
+      <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
+      <guid>//localhost:1313/label/no-quarter-/-caroline/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

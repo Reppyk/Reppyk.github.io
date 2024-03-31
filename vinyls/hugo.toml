@@ -1,0 +1,12 @@
+baseurl = 'example.org'
+languageCode = 'en-us'
+title = 'My Vinyl Records Collection'
+author = 'R.'
+theme = 'vinyl-records-collection-theme'
+
+[taxonomies]
+  artist = 'artist'
+  genres = 'genres'
+  label = 'label'
+  year = 'year'
+  format = 'format'
