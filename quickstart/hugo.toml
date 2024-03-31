@@ -1,0 +1,5 @@
+baseURL = 'https://reppyk.github.io/'
+languageCode = 'en-us'
+title = 'Vénijeux'
+theme = 'ananke'
+enableEmoji = true
