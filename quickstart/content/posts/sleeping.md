@@ -5,6 +5,6 @@ draft = false
 +++
 # Sleeping
 
-If needed (you live too far ; it's snowing, etc.), up to 8 people can sleep at home.
+If needed (you live too far ; it's snowing, etc.), up to 8 people can sleep at home (4 different rooms).
 
 > Just ask :wink:
