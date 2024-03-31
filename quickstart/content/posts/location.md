@@ -11,7 +11,7 @@ draft = false
 
 > There are 5 different homes at the same address. Mine's the yellow&pink house, the closest from the start of the street.
 
-![House entrance](allende_house.png)
+![House entrance](/allende_house.png)
 
 ## Public Transport
 
@@ -31,7 +31,7 @@ Walk 15mn : Bd Ambroise Croizat, Av. Jacques Duclos, Rue Parmentier.
 
 Lines 39 ,54, 111, 112, 113 and 190 are close.
 
-![Public transport](allende_subway.png)
+![Public transport](/allende_subway.png)
 
 ## On your own
 
