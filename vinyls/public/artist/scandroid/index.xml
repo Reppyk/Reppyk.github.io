@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scandroid on My Vinyl Records Collection</title>
-    <link>//localhost:1313/artist/scandroid/</link>
+    <link>example.org/artist/scandroid/</link>
     <description>Recent content in Scandroid on My Vinyl Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Mar 2024 22:56:30 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/artist/scandroid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="example.org/artist/scandroid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scandroid</title>
-      <link>//localhost:1313/scandroid/</link>
+      <link>example.org/scandroid/</link>
       <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
-      <guid>//localhost:1313/scandroid/</guid>
+      <guid>example.org/scandroid/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year on My Vinyl Records Collection</title>
-    <link>//localhost:1313/year/</link>
+    <link>example.org/year/</link>
     <description>Recent content in Year on My Vinyl Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 23:04:42 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/year/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 19:28:34 +0200</lastBuildDate>
+    <atom:link href="example.org/year/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1987</title>
-      <link>//localhost:1313/year/1987/</link>
-      <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
-      <guid>//localhost:1313/year/1987/</guid>
+      <title>2023</title>
+      <link>example.org/year/2023/</link>
+      <pubDate>Mon, 01 Apr 2024 19:28:34 +0200</pubDate>
+      <guid>example.org/year/2023/</guid>
       <description></description>
     </item>
     <item>
-      <title>2023</title>
-      <link>//localhost:1313/year/2023/</link>
-      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
-      <guid>//localhost:1313/year/2023/</guid>
+      <title>2012</title>
+      <link>example.org/year/2012/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>example.org/year/2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1987</title>
+      <link>example.org/year/1987/</link>
+      <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
+      <guid>example.org/year/1987/</guid>
       <description></description>
     </item>
     <item>
       <title>2016</title>
-      <link>//localhost:1313/year/2016/</link>
+      <link>example.org/year/2016/</link>
       <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
-      <guid>//localhost:1313/year/2016/</guid>
+      <guid>example.org/year/2016/</guid>
       <description></description>
     </item>
   </channel>

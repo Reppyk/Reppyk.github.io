@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeadLife on My Vinyl Records Collection</title>
+    <link>example.org/artist/deadlife/</link>
+    <description>Recent content in DeadLife on My Vinyl Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 19:16:57 +0200</lastBuildDate>
+    <atom:link href="example.org/artist/deadlife/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God in the Machine</title>
+      <link>example.org/god_in_the_machine/</link>
+      <pubDate>Mon, 01 Apr 2024 19:16:57 +0200</pubDate>
+      <guid>example.org/god_in_the_machine/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

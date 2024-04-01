@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blood Music on My Vinyl Records Collection</title>
+    <link>example.org/label/blood-music/</link>
+    <description>Recent content in Blood Music on My Vinyl Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 19:26:36 +0200</lastBuildDate>
+    <atom:link href="example.org/label/blood-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nocturne City</title>
+      <link>example.org/nocturne_city/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>example.org/nocturne_city/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

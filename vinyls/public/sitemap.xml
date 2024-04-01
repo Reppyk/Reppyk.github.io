@@ -2,85 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/year/1987/</loc>
+    <loc>example.org/198xad/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/year/2023/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/format/33rpm-/-12/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/label/fixt/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/format/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/genres/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/label/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/mega-drive/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/genres/synthwave/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/year/</loc>
+    <lastmod>2024-04-01T19:28:34+02:00</lastmod>
+  </url><url>
+    <loc>example.org/year/2012/</loc>
+    <lastmod>2024-04-01T19:26:36+02:00</lastmod>
+  </url><url>
+    <loc>example.org/label/blood-music/</loc>
+    <lastmod>2024-04-01T19:26:36+02:00</lastmod>
+  </url><url>
+    <loc>example.org/nocturne_city/</loc>
+    <lastmod>2024-04-01T19:26:36+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/perturbator/</loc>
+    <lastmod>2024-04-01T19:26:36+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/gunship/</loc>
+    <lastmod>2024-04-01T19:25:07+02:00</lastmod>
+  </url><url>
+    <loc>example.org/gunship/</loc>
+    <lastmod>2024-04-01T19:25:07+02:00</lastmod>
+  </url><url>
+    <loc>example.org/label/horsie-in-the-hedge-llp/</loc>
+    <lastmod>2024-04-01T19:25:07+02:00</lastmod>
+  </url><url>
+    <loc>example.org/data_renaissance/</loc>
+    <lastmod>2024-04-01T19:23:23+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/the-algorithm/</loc>
+    <lastmod>2024-04-01T19:23:23+02:00</lastmod>
+  </url><url>
+    <loc>example.org/dark_all_day/</loc>
+    <lastmod>2024-04-01T19:20:52+02:00</lastmod>
+  </url><url>
+    <loc>example.org/label/ingrooves/</loc>
+    <lastmod>2024-04-01T19:20:52+02:00</lastmod>
+  </url><url>
+    <loc>example.org/artist/deadlife/</loc>
+    <lastmod>2024-04-01T19:16:57+02:00</lastmod>
+  </url><url>
+    <loc>example.org/god_in_the_machine/</loc>
+    <lastmod>2024-04-01T19:16:57+02:00</lastmod>
+  </url><url>
+    <loc>example.org/year/1987/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/format/45rpm-/-7/</loc>
+    <loc>example.org/format/45rpm-/-7/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/artist/</loc>
+    <loc>example.org/label/chic/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/label/chic/</loc>
+    <loc>example.org/hot_girl/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/format/</loc>
+    <loc>example.org/genres/pop/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/genres/</loc>
+    <loc>example.org/artist/sabrina/</loc>
     <lastmod>2024-03-31T23:04:42+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/hot_girl/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/label/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/genres/pop/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/artist/sabrina/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/year/</loc>
-    <lastmod>2024-03-31T23:04:42+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/all_of_me/</loc>
+    <loc>example.org/all_of_me/</loc>
     <lastmod>2024-03-31T23:00:41+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/label/carrere/</loc>
+    <loc>example.org/label/carrere/</loc>
     <lastmod>2024-03-31T23:00:41+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/year/2023/</loc>
+    <loc>example.org/artist/scandroid/</loc>
     <lastmod>2024-03-31T22:56:30+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/format/33rpm-/-12/</loc>
+    <loc>example.org/scandroid/</loc>
     <lastmod>2024-03-31T22:56:30+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/label/fixt/</loc>
-    <lastmod>2024-03-31T22:56:30+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/artist/scandroid/</loc>
-    <lastmod>2024-03-31T22:56:30+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/scandroid/</loc>
-    <lastmod>2024-03-31T22:56:30+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/genres/synthwave/</loc>
-    <lastmod>2024-03-31T22:56:30+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/year/2016/</loc>
+    <loc>example.org/year/2016/</loc>
     <lastmod>2024-03-31T22:51:37+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/label/electronic-purification-records/</loc>
+    <loc>example.org/label/electronic-purification-records/</loc>
     <lastmod>2024-03-31T22:51:37+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/metropolis/</loc>
+    <loc>example.org/metropolis/</loc>
     <lastmod>2024-03-31T22:51:37+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/artist/nightcrawler/</loc>
+    <loc>example.org/artist/nightcrawler/</loc>
     <lastmod>2024-03-31T22:51:37+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blood_machines/</loc>
+    <loc>example.org/blood_machines/</loc>
     <lastmod>2024-03-31T22:45:44+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/artist/carpenter-brut/</loc>
+    <loc>example.org/artist/carpenter-brut/</loc>
     <lastmod>2024-03-31T22:45:44+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/label/no-quarter-/-caroline/</loc>
+    <loc>example.org/label/no-quarter-/-caroline/</loc>
     <lastmod>2024-03-31T22:45:44+02:00</lastmod>
   </url>
 </urlset>

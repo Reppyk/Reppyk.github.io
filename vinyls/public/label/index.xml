@@ -2,45 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Label on My Vinyl Records Collection</title>
-    <link>//localhost:1313/label/</link>
+    <link>example.org/label/</link>
     <description>Recent content in Label on My Vinyl Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 23:04:42 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/label/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 19:28:34 +0200</lastBuildDate>
+    <atom:link href="example.org/label/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIXT</title>
+      <link>example.org/label/fixt/</link>
+      <pubDate>Mon, 01 Apr 2024 19:28:34 +0200</pubDate>
+      <guid>example.org/label/fixt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blood Music</title>
+      <link>example.org/label/blood-music/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>example.org/label/blood-music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horsie in the Hedge LLP</title>
+      <link>example.org/label/horsie-in-the-hedge-llp/</link>
+      <pubDate>Mon, 01 Apr 2024 19:25:07 +0200</pubDate>
+      <guid>example.org/label/horsie-in-the-hedge-llp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingrooves</title>
+      <link>example.org/label/ingrooves/</link>
+      <pubDate>Mon, 01 Apr 2024 19:20:52 +0200</pubDate>
+      <guid>example.org/label/ingrooves/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CHIC</title>
-      <link>//localhost:1313/label/chic/</link>
+      <link>example.org/label/chic/</link>
       <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
-      <guid>//localhost:1313/label/chic/</guid>
+      <guid>example.org/label/chic/</guid>
       <description></description>
     </item>
     <item>
       <title>CARRERE</title>
-      <link>//localhost:1313/label/carrere/</link>
+      <link>example.org/label/carrere/</link>
       <pubDate>Sun, 31 Mar 2024 23:00:41 +0200</pubDate>
-      <guid>//localhost:1313/label/carrere/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FIXT</title>
-      <link>//localhost:1313/label/fixt/</link>
-      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
-      <guid>//localhost:1313/label/fixt/</guid>
+      <guid>example.org/label/carrere/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronic Purification Records</title>
-      <link>//localhost:1313/label/electronic-purification-records/</link>
+      <link>example.org/label/electronic-purification-records/</link>
       <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
-      <guid>//localhost:1313/label/electronic-purification-records/</guid>
+      <guid>example.org/label/electronic-purification-records/</guid>
       <description></description>
     </item>
     <item>
       <title>No Quarter / Caroline</title>
-      <link>//localhost:1313/label/no-quarter-/-caroline/</link>
+      <link>example.org/label/no-quarter-/-caroline/</link>
       <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
-      <guid>//localhost:1313/label/no-quarter-/-caroline/</guid>
+      <guid>example.org/label/no-quarter-/-caroline/</guid>
       <description></description>
     </item>
   </channel>

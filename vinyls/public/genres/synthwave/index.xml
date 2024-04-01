@@ -2,31 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthwave on My Vinyl Records Collection</title>
-    <link>//localhost:1313/genres/synthwave/</link>
+    <link>example.org/genres/synthwave/</link>
     <description>Recent content in Synthwave on My Vinyl Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 22:56:30 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/genres/synthwave/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 19:28:34 +0200</lastBuildDate>
+    <atom:link href="example.org/genres/synthwave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>198XAD</title>
+      <link>example.org/198xad/</link>
+      <pubDate>Mon, 01 Apr 2024 19:28:34 +0200</pubDate>
+      <guid>example.org/198xad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nocturne City</title>
+      <link>example.org/nocturne_city/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>example.org/nocturne_city/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gunship</title>
+      <link>example.org/gunship/</link>
+      <pubDate>Mon, 01 Apr 2024 19:25:07 +0200</pubDate>
+      <guid>example.org/gunship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data_renaissance</title>
+      <link>example.org/data_renaissance/</link>
+      <pubDate>Mon, 01 Apr 2024 19:23:23 +0200</pubDate>
+      <guid>example.org/data_renaissance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark all Day</title>
+      <link>example.org/dark_all_day/</link>
+      <pubDate>Mon, 01 Apr 2024 19:20:52 +0200</pubDate>
+      <guid>example.org/dark_all_day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>God in the Machine</title>
+      <link>example.org/god_in_the_machine/</link>
+      <pubDate>Mon, 01 Apr 2024 19:16:57 +0200</pubDate>
+      <guid>example.org/god_in_the_machine/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Scandroid</title>
-      <link>//localhost:1313/scandroid/</link>
+      <link>example.org/scandroid/</link>
       <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
-      <guid>//localhost:1313/scandroid/</guid>
+      <guid>example.org/scandroid/</guid>
       <description></description>
     </item>
     <item>
       <title>Metropolis</title>
-      <link>//localhost:1313/metropolis/</link>
+      <link>example.org/metropolis/</link>
       <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
-      <guid>//localhost:1313/metropolis/</guid>
+      <guid>example.org/metropolis/</guid>
       <description></description>
     </item>
     <item>
       <title>Blood Machines</title>
-      <link>//localhost:1313/blood_machines/</link>
+      <link>example.org/blood_machines/</link>
       <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
-      <guid>//localhost:1313/blood_machines/</guid>
+      <guid>example.org/blood_machines/</guid>
       <description></description>
     </item>
   </channel>

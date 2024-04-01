@@ -36,8 +36,8 @@ number_of_discs: 1
 ## Any supplementary pictures you want to display.
 ## These pictures should be in the site asset folder : <your hugo site>/static
 ## If you put them into a sub-folder, don't forget it in the path !
-# pictures:
-#   - this-album/pict.jpg
+pictures:
+  - blood_machines_b.jpg
 
 ## The publish year
 # year: 1990

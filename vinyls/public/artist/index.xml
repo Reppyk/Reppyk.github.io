@@ -2,38 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artist on My Vinyl Records Collection</title>
-    <link>//localhost:1313/artist/</link>
+    <link>example.org/artist/</link>
     <description>Recent content in Artist on My Vinyl Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 23:04:42 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/artist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 19:28:34 +0200</lastBuildDate>
+    <atom:link href="example.org/artist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mega Drive</title>
+      <link>example.org/artist/mega-drive/</link>
+      <pubDate>Mon, 01 Apr 2024 19:28:34 +0200</pubDate>
+      <guid>example.org/artist/mega-drive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perturbator</title>
+      <link>example.org/artist/perturbator/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>example.org/artist/perturbator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gunship</title>
+      <link>example.org/artist/gunship/</link>
+      <pubDate>Mon, 01 Apr 2024 19:25:07 +0200</pubDate>
+      <guid>example.org/artist/gunship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Algorithm</title>
+      <link>example.org/artist/the-algorithm/</link>
+      <pubDate>Mon, 01 Apr 2024 19:23:23 +0200</pubDate>
+      <guid>example.org/artist/the-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DeadLife</title>
+      <link>example.org/artist/deadlife/</link>
+      <pubDate>Mon, 01 Apr 2024 19:16:57 +0200</pubDate>
+      <guid>example.org/artist/deadlife/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Sabrina</title>
-      <link>//localhost:1313/artist/sabrina/</link>
+      <link>example.org/artist/sabrina/</link>
       <pubDate>Sun, 31 Mar 2024 23:04:42 +0200</pubDate>
-      <guid>//localhost:1313/artist/sabrina/</guid>
+      <guid>example.org/artist/sabrina/</guid>
       <description></description>
     </item>
     <item>
       <title>Scandroid</title>
-      <link>//localhost:1313/artist/scandroid/</link>
+      <link>example.org/artist/scandroid/</link>
       <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
-      <guid>//localhost:1313/artist/scandroid/</guid>
+      <guid>example.org/artist/scandroid/</guid>
       <description></description>
     </item>
     <item>
       <title>Nightcrawler</title>
-      <link>//localhost:1313/artist/nightcrawler/</link>
+      <link>example.org/artist/nightcrawler/</link>
       <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
-      <guid>//localhost:1313/artist/nightcrawler/</guid>
+      <guid>example.org/artist/nightcrawler/</guid>
       <description></description>
     </item>
     <item>
       <title>Carpenter Brut</title>
-      <link>//localhost:1313/artist/carpenter-brut/</link>
+      <link>example.org/artist/carpenter-brut/</link>
       <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
-      <guid>//localhost:1313/artist/carpenter-brut/</guid>
+      <guid>example.org/artist/carpenter-brut/</guid>
       <description></description>
     </item>
   </channel>
